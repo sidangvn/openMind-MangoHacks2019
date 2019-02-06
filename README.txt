@@ -1,7 +1,8 @@
+Check out here: https://devpost.com/software/openmind
 
 Inspiration
 When we were at USF, we came across a veteran student to whom we were having a conversation and noticed he became 
-disabled after serving in military and forced to rely on so many things that he hasnít before. 
+disabled after serving in military and forced to rely on so many things that he hasn‚Äôt before. 
 We wanted to develop something that can help disabled people to perform simultaneously like an average person who control 
 his hands using his minds and reduce the discomfort that the disabled people encounter in their everyday life.
 
@@ -14,10 +15,10 @@ with a Bluetooth and USB which can connect to a computer that projects real-time
 The headset has 7 different sensors to calculate the brain waves accurately from different angles. 
 The TCP/IP socket translates the information from the headset to the robot arm. The Emotiv software converts the brain 
 waves to a key that identifies the movement that the user wants to perform using the robot arm. The runtime is quick and it is sensitive, 
-so we donít have to wait for it to move and it moves almost simultaneously with the moment we think of a movement. 
+so we don‚Äôt have to wait for it to move and it moves almost simultaneously with the moment we think of a movement. 
 The first version can pick something and move objects around. The second version can do almost every action that average humans can do. 
-It takes time to train the whole system to work according to the personís mindset (who will be using it) and also requires 
-training every time the user changes since each personís thinking and concentration is different from one another and need to 
+It takes time to train the whole system to work according to the person‚Äôs mindset (who will be using it) and also requires 
+training every time the user changes since each person‚Äôs thinking and concentration is different from one another and need to 
 adjust to that certain user. But, the training time can be reduced in the future. There are 4 keys for controlling the robot 
 arm in the first version while more than 10 keys are needed for controlling in the second version.
 
@@ -34,7 +35,7 @@ that can be found online which can help or guide us. It was very challenging for
 device and to implement and test everything that we had planned. One of the biggest challenges that we encountered was 
 training and testing the system. It requires concentration and focus to move an object and fewer subjects can lead to 
 less diverse results. So, we did the training for people who are more focused and trained as many people as possible. 
-Also, if the subject gets distracted, then the system wonít be as accurate as it is usually. Another struggle we encountered 
+Also, if the subject gets distracted, then the system won‚Äôt be as accurate as it is usually. Another struggle we encountered 
 was we all have been working mostly on the software side of the computer science in the past and had less experience using hardware. 
 So, it was a bit harder than usual for us to set up the circuit. And, we have never learnt about TCP/IP socket, so it was hard getting 
 around it as well. But, because of our team effort and relationship, we helped and worked it around and even if we do not have any experience 
@@ -42,7 +43,7 @@ on a certain area or if any one of us seems to be struggling with something, we 
 
 Accomplishments that we're proud of
 Since we were new to this technology, we are so proud that we engaged and taught each other and learnt from everything that we encountered. 
-We are proud to present ìopenMindî and see the way it is going to interact in the future, not only limited to helping disabled people, 
+We are proud to present ‚ÄúopenMind‚Äù and see the way it is going to interact in the future, not only limited to helping disabled people, 
 but also expands the idea in other areas for humanity and a good cause.
 
 What we learned
